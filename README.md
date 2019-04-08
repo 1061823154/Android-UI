@@ -8,7 +8,7 @@ android UI组件
 ![](https://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/1.jpg)
 
 1.Android ListView的用法：
-![](ttps://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/2.png)
+![](https://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/2.png)
 
 核心代码：
 ```的java
@@ -54,11 +54,11 @@ public class AnimalsActivity扩展AppCompatActivity {
 
 ```
 运行截图：
-![](ttps://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/3.jpg)
+![](https://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/3.jpg)
 
 
 2.创建自定义布局的AlertDial：
-![](ttps://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/4.png)
+![](https://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/4.png)
 核心代码：
 ```的java
 公共类AlterDialog扩展AppCompatActivity {
@@ -110,9 +110,9 @@ dialog_layout.xml
 
 ```
 运行截图：
-![](ttps://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/5.jpg)
+![](https://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/5.jpg)
 3.使用XML定义菜单：
-![](tps://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/6.png)
+![](https://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/6.png)
 核心代码：
 ```的java
 公共类MenuActivity扩展AppCompatActivity {
@@ -204,17 +204,17 @@ menu_layout.xml
 ```
 
 运行截图：
-![](ttps://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/7.jpg)
+![](https://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/7.jpg)
 20号字体：
-![](ttps://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/8.jpg)
-![](ttps://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/9.jpg)
+![](https://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/8.jpg)
+![](https://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/9.jpg)
 红色：
-![](ttps://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/10.jpg)
-![](ttps://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/11.jpg)
+![](https://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/10.jpg)
+![](https://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/11.jpg)
 普通选项：
-![](ttps://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/12.jpg)
+![](https://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/12.jpg)
 4.创建上下文操作模式（ActionMode）的上下文菜单
-![](ttps://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/13.png)
+![](https://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/13.png)
 核心代码：
 ```的java
 公共类ActionMode扩展AppCompatActivity {
@@ -307,4 +307,4 @@ public class NumberAdapter extends ArrayAdapter <Number> {
 }
 ```
 运行截图：
-![](ttps://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/14.jpg)
+![](https://github.com/1061823154/Android-UI/blob/master/%E7%85%A7%E7%89%87/14.jpg)
